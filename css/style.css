@@ -71,7 +71,7 @@ p {
 
 .showcase {
   font-family: 'Roboto', sans-serif;
-  background: url('https://uniofmora-my.sharepoint.com/personal/jasitharanp_19_uom_lk/Documents/my%20website/1e.jpg') no-repeat center center/cover;
+  background: url('https://images.pexels.com/photos/6428931/pexels-photo-6428931.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260') no-repeat center center/cover;
   color: #fff;
   height: 100vh;
 }
@@ -114,7 +114,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('https://uniofmora-my.sharepoint.com/personal/jasitharanp_19_uom_lk/Documents/my%20website/entertainment-background.jpg') no-repeat center
+  background: url('https://images.pexels.com/photos/6428929/pexels-photo-6428929.jpeg?auto=compress&cs=tinysrgb&h=650&w=940') no-repeat center
     center/cover;
   overflow: hidden;
 }
@@ -141,21 +141,21 @@ p {
 
 #card-1 .card-image {
   grid-area: image;
-  background: url('https://uniofmora-my.sharepoint.com/personal/jasitharanp_19_uom_lk/Documents/my%20website/2e.jpg');
+  background: url('https://images.pexels.com/photos/6428926/pexels-photo-6428926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940');
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
 }
 #card-2 .card-image {
   grid-area: image;
-  background: url('https://uniofmora-my.sharepoint.com/personal/jasitharanp_19_uom_lk/Documents/my%20website/3e.jpg');
+  background: url('https://images.pexels.com/photos/6428928/pexels-photo-6428928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940');
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
 }
 #card-3 .card-image {
   grid-area: image;
-  background: url('https://uniofmora-my.sharepoint.com/personal/jasitharanp_19_uom_lk/Documents/my%20website/4e.jpg');
+  background: url('https://images.pexels.com/photos/6428930/pexels-photo-6428930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940');
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -180,7 +180,7 @@ p {
 
 #contact-info {
   display: flex;
-  background: url('https://uniofmora-my.sharepoint.com/personal/jasitharanp_19_uom_lk/Documents/my%20website/contact-backgroud.jpg') no-repeat center center/cover;
+  background: url('https://images.pexels.com/photos/6428927/pexels-photo-6428927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940') no-repeat center center/cover;
   flex-direction: row;
   justify-content: center;
   align-items: center;
